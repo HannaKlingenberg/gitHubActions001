@@ -1,6 +1,6 @@
 package calculator;
 
-public class MyClass {
+public class MyCalcs {
     public int add(int a, int b) {
         return a + b;
     }
